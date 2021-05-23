@@ -1,0 +1,2 @@
+- @/home/muku directory structure
+- installed app list.
