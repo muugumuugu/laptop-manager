@@ -23,7 +23,6 @@
 - [ ] Treeline
 - [ ] Inkscape
 - [ ] instGlobal.sh
-- [ ] io.atom.Atom
 - [ ] io.lmms.LMMS
 - [ ] Julia
 - [ ] jythonMusic/
